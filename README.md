@@ -21,6 +21,3 @@ Estimate the probability of reaching step 60 by repeating the simulation.
 ## Result
 With 500 simulations and a fixed random seed:
 - Estimated probability: ~60.8%
-
-## How to run
-Open the notebook and run all cells.
